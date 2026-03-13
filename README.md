@@ -1,1 +1,1 @@
-# rust-api
+# rust-rest-api
